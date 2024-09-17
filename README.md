@@ -1,10 +1,23 @@
 # Reto: Campeonato de astucia
 
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+   * [⏳ Agenda](#-agenda)
+   * [🛠️ ¿De qué va el reto?](#-de-que-va-el-reto)
+   * [📋 Requisitos de la aplicación](#-requisitos-de-la-aplicacion)
+   * [👩‍💻 ¿Cómo participas en el reto?](#-como-participas-en-el-reto)
+   * [🤗 Mecenazgo](#-mecenazgo)
+
+<!-- TOC end -->
+
+<!-- TOC --><a name="reto-campeonato-de-astucia"></a>
+
 > 🎯 Propósito: Crear una aplicación que te avise cuando el producto baja de precio y programar lo más astutamente posible
 
 ![image](https://github.com/user-attachments/assets/3271f6b3-e019-4d9f-a701-6994f9c13486)
 ‎ 
 ‎
+<!-- TOC --><a name="-agenda"></a>
 ## ⏳ Agenda
 
 1. Arrancamos reto: 18 de Septiembre
@@ -14,6 +27,7 @@
 ‎
 
 ‎ ‎
+<!-- TOC --><a name="-de-que-va-el-reto"></a>
 ## 🛠️ ¿De qué va el reto?
 
 Hay que crear una aplicación que te avise cuando el producto de Amazon que deseas con todas tus fuerzas baje de precio.
@@ -38,6 +52,7 @@ El más astuto o la más astuta ;)
 ‎
 
 ‎ ‎
+<!-- TOC --><a name="-requisitos-de-la-aplicacion"></a>
 ## 📋 Requisitos de la aplicación
 
 🎧 Describimos los retos mínimos en ["Cómo planificar un proyecto antes de empezar a programarlo"](https://premium.danielprimo.io/podcast/premium/como-planificar-proyecto-antes-programarlo)
@@ -62,6 +77,7 @@ Respecto a la interfaz, surgieron varias ideas, puede quedarte con la que más t
 ‎
 
 ‎ ‎
+<!-- TOC --><a name="-como-participas-en-el-reto"></a>
 ## 👩‍💻 ¿Cómo participas en el reto?
 
 1️⃣  Puedes hacerlo en el lenguaje de programación que quieras.
@@ -78,6 +94,7 @@ Respecto a la interfaz, surgieron varias ideas, puede quedarte con la que más t
 ‎
 
 ‎ ‎
+<!-- TOC --><a name="-mecenazgo"></a>
 ## 🤗 Mecenazgo
 Este reto se realiza por y para la [Comunidad Malandriner][5]
 

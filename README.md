@@ -42,6 +42,8 @@ El más astuto o la más astuta ;)
 
 🎧 Describimos los retos mínimos en ["Cómo planificar un proyecto antes de empezar a programarlo"](https://premium.danielprimo.io/podcast/premium/como-planificar-proyecto-antes-programarlo)
 
+No necesitamos mucho para monitorizar el precio de un producto...
+
 - Elegir el producto de Amazon
 - Monitorizar el precio x veces día (mediante [API](https://webservices.amazon.com/paapi5/documentation/) o haciendo scraping)
 - Guardar los cambios de precio en base de datos o fichero de texto

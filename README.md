@@ -22,8 +22,7 @@
 
 1. Arrancamos reto: 18 de Septiembre
 2. Directo para ayudarte a definir el proyecto: 26 de Septiembre (19:00 CEST)
-3. 🎁 Sorpresa entre medias ;)
-4. Gran final: 10 de Octubre (19:00 CEST)
+3. Gran final: 10 de Octubre (19:00 CEST)
 ‎
 
 ‎ ‎
